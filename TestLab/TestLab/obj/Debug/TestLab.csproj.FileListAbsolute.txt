@@ -1,0 +1,8 @@
+D:\Тест C#\TestLab\TestLab\bin\Debug\TestLab.exe.config
+D:\Тест C#\TestLab\TestLab\bin\Debug\TestLab.exe
+D:\Тест C#\TestLab\TestLab\bin\Debug\TestLab.pdb
+D:\Тест C#\TestLab\TestLab\obj\Debug\TestLab.csproj.CoreCompileInputs.cache
+D:\Тест C#\TestLab\TestLab\obj\Debug\TestLab.exe
+D:\Тест C#\TestLab\TestLab\obj\Debug\TestLab.pdb
+D:\Тест C#\TestLab\TestLab\bin\Debug\TestLab.exe.CodeAnalysisLog.xml
+D:\Тест C#\TestLab\TestLab\bin\Debug\TestLab.exe.lastcodeanalysissucceeded
